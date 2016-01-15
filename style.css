@@ -2,7 +2,25 @@
   margin: 15px 10px;
 }
 
+
+body {
+	/*Go Gators lol*/
+	background:orange;	
+	color:darkblue;	
+}
+
+
 .tableWrapper {
   max-height: 400px;
   overflow: auto;
+  border: 4px solid;
+  background:white;
 }
+
+.form1 {
+	border: 4px solid;
+    margin-right:auto;
+	margin-left:auto;
+	text-align:center;
+}
+
